@@ -144,5 +144,5 @@ $invalid = 10;
 
 ## 👤 Author
 
-**Shawnaz**  
-GitHub: [@shawnazd](https://github.com/shawnazd)
+**Shawn**  
+GitHub: [@cseshawn](https://github.com/cseshawn)
